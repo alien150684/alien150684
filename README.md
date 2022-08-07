@@ -28,4 +28,4 @@ You can click the Preview link to take a look at your changes.
 | [Исследование технологического процесса очистки золота](https://github.com/alien150684/9_process_gold_recovery) | Промышленность | Matplotlib, NumPy, Pandas, Scikit-learn, подбор гиперпараметров под пользовательскую метрику | Спрогнозировать концентрацию золота при проведении процесса его очистки. |
 | [Прогнозирование стоимости автомобиля](https://github.com/alien150684/11_car_price_prediction) | Интернет-магазины, Интернет-сервисы | Pandas, Scikit-learn, LightGBM, datetime, пайплайн | Создание модели для определения стоимости автомобиля на основе его характеристик. |
 | [Прогнозирование количества заказов такси](https://github.com/alien150684/12_number_of_taxi_orders) | Интернет-сервисы | Pandas, Scikit-learn, CatBoost, statsmodels, декомпозиция временного ряда | Разработка модели для предсказания  количества заказов такси на следующий час. |
-
+| [Определение токсичности комментариев](https://github.com/alien150684/13_comments_classification) | Интернет-сервисы | NLTK, BERT, Scikit-learn, PyTorch, CatBoost | Разработка модели классификации комментариев. |
